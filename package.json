@@ -1,7 +1,14 @@
 {
-  "name": "next-auth-refresh-tokens",
+  "name": "next-auth-refresh-token-example",
+  "description": "A simple example of using NextAuth.js to refresh an access token",
   "version": "0.1.0",
-  "private": true,
+  "repository": "https://github.com/nextauthjs/next-auth-refresh-token-example.git",
+  "bugs": {
+    "url": "https://github.com/nextauthjs/next-auth-refresh-token-example/issues"
+  },
+  "author": "github.com/agusterodin",
+  "license": "ISC",
+  "homepage": "http://next-auth-example.now.sh",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,7 +16,7 @@
   },
   "dependencies": {
     "next": "^12",
-    "next-auth": "4.0.0-beta.6",
+    "next-auth": "4.0.0-beta.7",
     "react": "^17",
     "react-dom": "^17"
   },
