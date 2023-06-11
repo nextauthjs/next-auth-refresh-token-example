@@ -98,7 +98,7 @@ Do not forget to set the environment variables for the Client ID and Client Secr
 ## Acknowledgements
 
 <a href="https://vercel.com?utm_source=nextauthjs&utm_campaign=oss">
-<img width="170px" src="https://raw.githubusercontent.com/nextauthjs/next-auth/canary/www/static/img/powered-by-vercel.svg" alt="Powered By Vercel" />
+<img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" height="100" alt="Powered By Vercel" />
 </a>
 <p align="left">Thanks to Vercel sponsoring this project by allowing it to be deployed for free for the entire NextAuth.js Team</p>
 
